@@ -1,5 +1,5 @@
 # blocr
-helps people get over porn addiction
+supports individuals in overcoming unhealthy adult watching internet habits.
 
 # to use 
 1. go to chrome://extensions and enable developer mode
